@@ -8,7 +8,7 @@
    ```bash
    cd TicTacToe
 3. Install pygame-ce:
-   Pip ihstall pygame-ce library
+   Pip install pygame-ce library
    ```bash
    pip install pygame-ce
 4. Run game:
