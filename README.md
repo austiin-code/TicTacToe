@@ -15,6 +15,4 @@
    Run the following in terminal
    ```bash
    python tictactoe.py
-  or
-  ```bash
-  python3 tictactoe.py
+   
